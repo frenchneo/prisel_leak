@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	$basetexture 			"models/weapons/tfa_ins2/codol_freedom/skyfire/mag_d"
+	$color2					"[0.5 0.5 0.5]"
+	$bumpmap 				"models/weapons/tfa_ins2/codol_freedom/skyfire/mag_n"
+	$phongexponenttexture 	"models/weapons/tfa_ins2/codol_freedom/skyfire/mag_s"
+
+	$envmap 				"env_cubemap"
+	$envmapfresnel 			"1.5"
+	$envmaptint 			"[0.05 0.05 0.05]"
+	$normalmapalphaenvmapmask "1"
+
+	$phong 					"1"
+	$phongboost 			"24"
+	$phongalbedotint 		"1"
+	$phongfresnelranges 	"[0.5 0.75 1.0]"
+
+	$rimlight               "1"
+	$rimlightexponent       "16"
+	$rimlightboost          "4"
+}

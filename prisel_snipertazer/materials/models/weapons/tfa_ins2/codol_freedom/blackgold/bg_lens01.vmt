@@ -1,0 +1,19 @@
+UnLitGeneric
+{
+$basetexture models/weapons/tfa_ins2/codol_freedom/blackgold/lens01
+$translucent 1
+$selfillum 1
+$detail models/weapons/tfa_ins2/codol_freedom/scan
+"$detailscale" "1" 
+"$detailblendfactor" 0.1
+"$detailblendmode" 5
+"Proxies"
+    {
+        "TextureScroll"  
+        {
+            "textureScrollVar" "$detailtexturetransform" 
+            "textureScrollRate" .7
+            "textureScrollAngle" 90 
+        }
+    }
+}

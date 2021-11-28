@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	$basetexture 			"models/weapons/tfa_ins2/codol_freedom/royal/mag_d"
+	$color2					"[0.85 0.85 0.85]"
+	$bumpmap 				"models/weapons/tfa_ins2/codol_freedom/royal/mag_n"
+	$phongexponenttexture 	"models/weapons/tfa_ins2/codol_freedom/royal/mag_s"
+
+	$envmap 				"env_cubemap"
+	$envmapfresnel 			"1"
+	$envmaptint 			"[0.03 0.01 0.01]"
+	$normalmapalphaenvmapmask "1"
+
+	$phong 					"1"
+	$phongboost 			"16"
+	$phongalbedotint 		"1"
+	$phongfresnelranges 	"[0.5 0.85 1.0]"
+}
