@@ -1,6 +1,7 @@
 # prisel_leak
 Un bric à brac de pleins de petit script lua crée ou modifié pour Prisel.fr<br>
 Pour toute demande de support merci de nous contacter sur notre forum : https://prisel.fr/<br>
+N'oubliez pas d'installer KVSLib : https://steamcommunity.com/sharedfiles/filedetails/?id=2031595057<br>
 
 Vous pourrez trouver :
 - Un système de carte d'identité française optimisé<br>
